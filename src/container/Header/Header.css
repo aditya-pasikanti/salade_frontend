@@ -1,0 +1,23 @@
+/* .app__header {
+    background-color: var(--color-black);
+} */
+
+.app__header-h1 {
+    font-family: var(--font-base);
+    /* color: var(--color-golden); */
+    color: black;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    line-height: 100px;
+    font-size: 90px;
+}
+
+p {
+    color: black;
+}
+
+
+/* .app__wrapper_img img {
+    width: 50%;
+    height: 50px;
+} */
